@@ -9,3 +9,5 @@ class Librarian(models.Model)
 "library"
 
 ["class UserProfile(models.Model):", "Admin", "Member"]
+
+["class Meta", "permissions"]
