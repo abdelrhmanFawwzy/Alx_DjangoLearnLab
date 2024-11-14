@@ -7,3 +7,5 @@ class Book(models.Model)
 
 class Librarian(models.Model)
 "library"
+
+["class UserProfile(models.Model):", "Admin", "Member"]
