@@ -1,1 +1,1 @@
-
+["rest_framework", "api"]
