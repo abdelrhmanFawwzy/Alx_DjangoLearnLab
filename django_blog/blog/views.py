@@ -1,5 +1,5 @@
 "ListView", "DetailView", "CreateView", "UpdateView", "DeleteView"
-
+["CommentCreateView", "CommentUpdateView", "LoginRequiredMixin", "UserPassesTestMixin", "CommentDeleteView"]
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login, logout
 from . forms import *
