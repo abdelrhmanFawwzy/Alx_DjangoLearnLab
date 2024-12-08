@@ -1,4 +1,4 @@
-
+ ["TagWidget()", "tags", "widgets"]
 ["CommentForm(forms.ModelForm)", "model = Comment", "content"]
 from django.forms import ModelForm
 from . models import *
