@@ -1,4 +1,5 @@
 # "USER", "PORT"
+"taggit"]
 
 from pathlib import Path
 
