@@ -1,3 +1,5 @@
+["Comment(models.Model)", "post", "created_at", "updated_at"]
+
 from django.db import models
 from django.contrib.auth.models import User
 
