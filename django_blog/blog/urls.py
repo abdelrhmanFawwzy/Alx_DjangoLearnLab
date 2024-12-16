@@ -1,3 +1,4 @@
+["post/<int:pk>/delete/", "post/<int:pk>/update/", "post/new/"]
 from django.urls import path
 from . import views
 
